@@ -1,0 +1,56 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/malcolm/Projects/titan/tramm/java/" . "8/")
+ ("/Users/malcolm/Projects/titan/tramm/" . "java/")
+ ("/Users/malcolm/Projects/titan/beastboy/roles/java/" . "tasks/")
+ ("/Users/malcolm/Projects/titan/beastboy/roles/" . "java/")
+ ("/Users/malcolm/Projects/titan/beastboy/" . "roles/")
+ ("/Users/malcolm/Projects/titan/" . "tramm/")
+ ("/Users/malcolm/Projects/" . "titan/")
+ ("/Users/malcolm/" . "Projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/malcolm/Projects/titan/tramm/"
+ "/Users/malcolm/Projects/titan/tramm/java/8/"
+ "/Users/malcolm/Projects/titan/tramm/java/7/"
+ "/Users/malcolm/Projects/titan/beastboy/roles/java/tasks/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "README.md"
+ "Dockerfile"
+ "main.yml"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/malcolm/Projects/titan/tramm/java/8/" (21673 54460 0 0) "Dockerfile" "../" "./")
+
+ ("/Users/malcolm/Projects/titan/tramm/java/7/" (21673 54450 0 0) "Dockerfile" "../" "./")
+
+ ("/Users/malcolm/Projects/titan/tramm/java/" (21673 54409 0 0) "8/" "7/" "../" "./")
+
+ ("/Users/malcolm/Projects/titan/tramm/" (21673 54401 0 0) "README.md" "java/" ".git/" "../" "./")
+
+ ("/Users/malcolm/Projects/titan/beastboy/roles/java/tasks/" (21623 35735 0 0) "main.yml" "../" "./")
+
+ ("/Users/malcolm/Projects/titan/beastboy/roles/java/" (21638 13488 0 0) "tasks/" "meta/" "../" "./")
+
+ ("/Users/malcolm/Projects/titan/beastboy/roles/" (21645 59304 0 0) "vars/" "templates/" "registry/" "nginx/" "nexus/" "jenkins/" "java/" "ec2-box/" "docker/" "common/" "../" "./")
+
+ ("/Users/malcolm/Projects/titan/beastboy/" (21645 59304 0 0) "vars/" "Vagrantfile" "supportazon.yml" "roles/" "README.md" "localdev.yml" "inventory/" "host_vars/" "group_vars/" "deploy.yml" "ansible.cfg" ".vagrant/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/malcolm/Projects/titan/" (21673 45643 0 0) "tramm/" "keys/" "beastboy/" "../" "./")
+
+ ("/Users/malcolm/Projects/" (21673 51804 0 0) "webrtc/" "watir_cucumber/" "userevents/" "tng_plot.svg" "tng_plot.gnu" "tng_jitter_profile.txt" "tng_jitter_nanosleep.txt" "tng_jitter_nanosleep.svg" "tng_jitter_busywait.txt" "tng_jitter_busywait.svg" "tng/" "titan/" "svn2git.txt" "sipp/" "sipjs-examples/" "sipjs/" "product-labels.1/" "product-labels/" "playbooks/" "nspr/" "ng/" "mlockyer/" "minime-sipjs-example/" "mediaserver.x/" "mediaserver.properties" "mediaserver.first/" "mediaserver/" "libevent-thread/" "javascript/" "hackday-taranaki/" "gyp/" "go/" "freeswitch-contrib/" "freeswitch/" "denny/" "dart/" "Contact_US/" "clojure/" "cheekypullrepo/" "Benchmark/" "authors.txt" "ansible/" "angularjs/" ".DS_Store" "../" "./")
+
+ ("/Users/malcolm/" (21673 48483 0 0) "web-nossl.retry" "VirtualBox VMs/" "supportazon.retry" "support.retry" "src/" "Sites/" "Public/" "Projects/" "Pictures/" "nexus.retry" "Music/" "Movies/" "mediaserver.uslab" "localdev.retry" "Library/" "Kitematic/" "google-cloud-sdk/" "freeswitch/" "exercism/" "Downloads/" "Documents/" "Desktop/" "config/" "cc/" "bin/" "Applications/" "api/" ".zshrc" ".zprofile" ".zlogin" ".zcompdump-Malcolm’s MacBook Pro-4.3.11" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".tgdb/" ".subversion/" ".ssh/" ".slocdata/" ".saves/" ".rvm/" ".rnd" ".rdtzpkmrc" ".quips" ".pub-cache/" ".psql_history" ".profile" ".npm/" ".netbeans/" ".m2/" ".local/" ".lldb/" ".linphonerc" ".linphone-history.db" ".links/" ".lesshst" ".lein/" ".keybase-installer/" ".julia_history" ".jline-clojure.main.history" ".irb_history" ".irb-history" ".IdeaIC14/" ".idea/" ".hgignore_global" ".grunt-init/" ".gradle/" ".gnuplot_history" ".gnupg/" ".gitignore_global" ".gitconfig" ".gem/" ".fontconfig/" ".exercism.json" ".emacs.d/" ".elinks/" ".ebvnavzn" ".earthquake/" ".DS_Store" ".dartium/" ".cups/" ".config/" ".cgminer/" ".cgdb/" ".CFUserTextEncoding" ".cache/" ".bower/" ".boot2docker/" ".bashrc" ".bash_profile" ".bash_history" ".atom/" ".ansible/" ".android/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
