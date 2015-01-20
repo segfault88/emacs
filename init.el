@@ -153,3 +153,4 @@
 
 ;; (require 'ace-jump-mode)
 (global-set-key (kbd "C-0") 'ace-jump-mode)
+(define-key global-map (kbd "C-x SPC") 'ace-jump-mode-pop-mark)
