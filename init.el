@@ -139,3 +139,9 @@
  '(coffee-tab-width 2))
 
 (nyan-mode)
+
+(require 'helm-config)
+(global-set-key (kbd "M-x") 'helm-M-x)
+;; (helm-autoresize-mode 1)
+
+(set-face-attribute 'default nil :height 160)
