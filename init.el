@@ -144,4 +144,9 @@
 (global-set-key (kbd "M-x") 'helm-M-x)
 ;; (helm-autoresize-mode 1)
 
-(set-face-attribute 'default nil :height 160)
+(set-face-attribute 'default nil :height 150)
+
+(require 'expand-region)
+(global-set-key (kbd "C-=") 'er/expand-region)
+
+(pending-delete-mode 1)
