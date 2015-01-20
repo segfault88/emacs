@@ -150,3 +150,6 @@
 (global-set-key (kbd "C-=") 'er/expand-region)
 
 (pending-delete-mode 1)
+
+;; (require 'ace-jump-mode)
+(global-set-key (kbd "C-0") 'ace-jump-mode)
