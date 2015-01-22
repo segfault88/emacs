@@ -144,7 +144,7 @@
 (global-set-key (kbd "M-x") 'helm-M-x)
 ;; (helm-autoresize-mode 1)
 
-(set-face-attribute 'default nil :height 150)
+(set-face-attribute 'default nil :height 160)
 
 (require 'expand-region)
 (global-set-key (kbd "C-=") 'er/expand-region)
@@ -154,3 +154,6 @@
 ;; (require 'ace-jump-mode)
 (global-set-key (kbd "C-0") 'ace-jump-mode)
 (define-key global-map (kbd "C-x SPC") 'ace-jump-mode-pop-mark)
+
+(require 'neotree)
+(global-set-key [f8] 'neotree-toggle)
